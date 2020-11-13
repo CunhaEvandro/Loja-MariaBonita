@@ -1,0 +1,22 @@
+{
+  "name": "loja-mariabonita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CunhaEvandro/Loja-MariaBonita.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CunhaEvandro/Loja-MariaBonita/issues"
+  },
+  "homepage": "https://github.com/CunhaEvandro/Loja-MariaBonita#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
